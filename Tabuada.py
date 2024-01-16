@@ -10,3 +10,4 @@ print('{} x {:2} = {}'.format(num, 7,(num*7)))
 print('{} x {:2} = {}'.format(num, 8,(num*8)))
 print('{} x {:2} = {}'.format(num, 9,(num*9)))
 print('='*50)
+
