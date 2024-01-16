@@ -1,0 +1,8 @@
+print('======== Reajuste de Salário ========')
+funcionario = str(input('Funcionário: '))
+setor = str(input('Setor: '))
+Funcao = str(input('Função: '))
+salario = float(input('Salário: R$ '))
+aumento = salario + (salario * 15/100)
+print(' Funcionário: {}.\n Setor: {}.\n Função: {}.\n Recebia R$ {:.2f}.\n com 15% de aumento, passa a receber R$ {:.2f}.'.format(funcionario,setor,Funcao,salario,aumento))
+print('='*36)
