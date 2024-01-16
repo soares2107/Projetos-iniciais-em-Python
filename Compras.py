@@ -8,3 +8,4 @@ print('Produto: {}.\n'.format(produto))
 print('R$ {:.2f} à vista [com 10% de desconto].'.format(vista))
 print('Ou 12 x de R$ {:.2f} com juros [8% de juros].'.format(parcela))
 print('=' * 66)
+
