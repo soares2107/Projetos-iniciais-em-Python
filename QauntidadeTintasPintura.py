@@ -15,3 +15,4 @@ latas = QuantidadeTin * 2
 print('Sua parede tem dimensões {} x {} e sua área é de {:.0f} m².'.format(altura,comprimento,area))
 print('Para pintar essa parede, você precisará de {:.2f} litros de tintas.'.format(latas))
 print('='*66)
+
